@@ -47,7 +47,7 @@ demoBtn.addEventListener("click", function () {
 						</div>
 						<div class="slot__body">
 								<iframe class="slot__body__iframe" 
-										src="https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20sugarrush&gname=Sugar%20Rush&jurisdictionID=99&mgckey=stylename@generic~SESSION@fdbfe577-08b6-4e6c-bc22-ab4f7e36bbb4" 
+										src="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20sugarrush&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD" 
 										width="100%" height="100%" 
 										allow="autoplay; fullscreen; encrypted-media" 
 										allowfullscreen>
